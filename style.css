@@ -2,7 +2,7 @@ body{
     margin:0;
 }
 nav{
-    background-color: rgb(88, 88, 88);
+    background-color: rgba(134, 13, 13, 1);
     display: flex;
     justify-content: space-between;
     align-items: center;
